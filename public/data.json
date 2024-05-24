@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.postimg.cc/kXnxZd0q/Health.jpg",
+        "title": "Medical Supplies Drive",
+        "description": "Help provide essential medical supplies to hospitals and clinics.It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose",
+        "price": "$1000",
+        "category": "Health",
+        "colors": "blue"
+    },
+    {
+        "id": 2,
+        "image": "https://i.postimg.cc/Vs9qDNHK/Education.jpg",
+        "title": "Blood Donation Camp",
+        "description": "Donate blood and save lives. Join our blood donation camp today!It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose",
+        "price": "Free",
+        "category": "Education",
+        "colors": "red"
+    },
+    {
+        "id": 3,
+        "image": "https://i.postimg.cc/L6NzFbSf/Clothing.jpg",
+        "title": "Winter Clothing Drive",
+        "description": "Collect warm clothing items for the homeless and needy during winter.It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose",
+        "price": "$400",
+        "category": "Clothing",
+        "colors": "green"
+    },
+    {
+        "id": 4,
+        "image": "https://i.postimg.cc/Vs9qDNHK/Education.jpg",
+        "title": "Book Donation Drive",
+        "description": "Donate books to underprivileged children and promote education.It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose",
+        "price": "$500",
+        "category": "Education",
+        "colors": "red"
+    },
+    {
+        "id": 5,
+        "image": "https://i.postimg.cc/kXnxZd0q/Health.jpg",
+        "title": "Scholarship Program",
+        "description": "Support students in need by funding their education through scholarships.It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose",
+        "price": "$2000",
+        "category": "Health",
+        "colors": "blue"
+    },
+    {
+        "id": 6,
+        "image": "https://i.postimg.cc/5ym80PFh/Food.jpg",
+        "title": "Food Drive for Orphanage",
+        "description": "Donate food items to orphanages and shelters for children in need.It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose",
+        "price": "$150",
+        "category": "Food",
+        "colors": "orange"
+    },
+    {
+        "id": 7,
+        "image": "https://i.postimg.cc/kXnxZd0q/Health.jpg",
+        "title": "Free Health Checkup",
+        "description": "Get a free health checkup and consultation from qualified medical professionals.It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose",
+        "price": "Free",
+        "category": "Health",
+        "colors": "blue"
+    },
+    {
+        "id": 8,
+        "image": "https://i.postimg.cc/Vs9qDNHK/Education.jpg",
+        "title": "Educational Workshop",
+        "description": "Organize workshops to provide hands-on learning experiences to students.It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose",
+        "price": "$300",
+        "category": "Education",
+        "colors": "red"
+    },
+    {
+        "id": 9,
+        "image": "https://i.postimg.cc/L6NzFbSf/Clothing.jpg",
+        "title": "Donation Drive for Homeless",
+        "description": "Donate clothing items to homeless shelters and organizations supporting the homeless.It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose",
+        "price": "$200",
+        "category": "Clothing",
+        "colors": "green"
+    },
+    {
+        "id": 10,
+        "image": "https://i.postimg.cc/kXnxZd0q/Health.jpg",
+        "title": "Community Kitchen Event",
+        "description": "Volunteer at community kitchens to serve meals to the homeless and needy.It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose",
+        "price": "Free",
+        "category": "Food",
+        "colors": "orange"
+    },
+    {
+        "id": 11,
+        "image": "https://i.postimg.cc/5ym80PFh/Food.jpg",
+        "title": "Food Distribution Drive",
+        "description": "Organize food distribution drives to distribute meals to those in need.It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose",
+        "price": "$100",
+        "category": "Food",
+        "colors": "orange"
+    },
+    {
+        "id": 12,
+        "image": "https://i.postimg.cc/L6NzFbSf/Clothing.jpg",
+        "title": "School Uniform Donation",
+        "description": "Help provide school uniforms to children from low-income families.It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose",
+        "price": "$300",
+        "category": "Clothing",
+        "colors": "green"
+    }
+]
